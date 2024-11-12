@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_home"
+        android:title="HOME"
+        android:icon="@drawable/baseline_home_filled_24"
+        />
+
+    <item
+        android:id="@+id/bottom_person"
+        android:title="PERSON"
+        android:icon="@drawable/baseline_person_24"
+        />
+
+    <item
+
+        android:title=""
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/bottom_phone"
+        android:title="PHONE"
+        android:icon="@drawable/baseline_phone_enabled_24"
+        />
+
+    <item
+        android:id="@+id/bottom_camera"
+        android:title="CAMERA"
+        android:icon="@drawable/baseline_photo_camera_24"
+        />
+
+
+
+</menu>
+
